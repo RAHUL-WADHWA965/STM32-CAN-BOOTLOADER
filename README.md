@@ -4,14 +4,14 @@
 
 In This project, a bootloader for flashing firmware onto STM32F103C8T6 boards using a PCAN-USB adapter is developed. The firmware gets upgraded via CAN protocol and integrates with STM32 development tools.
 
-### Features
+### Attributes :-
 
 - Custom CAN bootloader for STM32F103C8T6
 - Firmware upload via PCAN-USB
 - STM32CubeMX integration
 - Example firmware included
 
-### Requirements
+### Pre-Requisites :-
 
 - STM32F103C8T6 board
 - PCAN-USB adapter
@@ -26,7 +26,7 @@ In This project, a bootloader for flashing firmware onto STM32F103C8T6 boards us
 4. **Upload Firmware**: Use PCAN-USB to load firmware onto the STM32F103C8T6.
 5. **Test**: Check firmware functionality and bootloader performance.
 
-### Projects Images
+# Images
 
 # Projects Images
 

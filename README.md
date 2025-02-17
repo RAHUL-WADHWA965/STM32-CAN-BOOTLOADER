@@ -1,8 +1,8 @@
-# PCAN-USB Bootloader for STM32F103C8T6
+#   STM32F103C8T6 (PCAN Bootloader)
 
-## Project Description
+## About the Project :-
 
-This project provides a bootloader for flashing firmware onto STM32F103C8T6 boards using a PCAN-USB adapter. It supports firmware updates via CAN protocol and integrates with STM32 development tools.
+In This project, a bootloader for flashing firmware onto STM32F103C8T6 boards using a PCAN-USB adapter is developed. The firmware gets upgraded via CAN protocol and integrates with STM32 development tools.
 
 ### Features
 
